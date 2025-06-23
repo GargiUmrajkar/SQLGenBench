@@ -1,5 +1,5 @@
 
-# 🔍 Natural Language to SQL Generator using Fine-Tuned LLMs
+# 🔍 Natural Language to SQL using Fine-Tuned LLMs
 
 ## Overview
 
